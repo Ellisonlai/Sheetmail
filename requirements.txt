@@ -1,0 +1,6 @@
+gspread>=6.0
+oauth2client>=4.1
+python-dotenv>=1.0
+streamlit>=1.34
+pytz>=2024.1
+localtunnel>=3.1

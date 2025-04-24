@@ -1,0 +1,20 @@
+cd path/to/sheetmail
+
+cat <<'EOF' > .gitignore
+# credentials & secrets
+.env
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env.*
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+EOF
