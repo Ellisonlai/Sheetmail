@@ -132,7 +132,7 @@ MIT
 GitHub READMEs do **not** render YouTube iframes, but they will keep HTML `<a>` tags. The workaround above shows a clickable thumbnail that opens YouTube in a new tab. Prefer MP4 or GIF stored locally if you want fully offline docs.
 
 ```markdown
-[![Demo video](assets/demo_thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID "Watch the demo")
+[![Demo video](assets/demo_thumbnail.png)](https://youtu.be/yMJEbBpenPE "Watch the demo")
 ```
 
 Replace `YOUR_VIDEO_ID` with the actual YouTube ID.
